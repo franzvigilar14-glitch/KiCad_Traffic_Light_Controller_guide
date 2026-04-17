@@ -1,4 +1,4 @@
-26440453674804734
+26444006468144873
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105630,12 +105630,26 @@ Terminal_Block_5mm
 2
 2
 my_footprints
+jinwoo
+
+
+0
+0
+0
+my_footprints
 slide_switch_2.54mm
 
 
 0
 3
 3
+my_footprints
+smile
+
+
+0
+0
+0
 my_footprints
 tact_switch_5mm
 
