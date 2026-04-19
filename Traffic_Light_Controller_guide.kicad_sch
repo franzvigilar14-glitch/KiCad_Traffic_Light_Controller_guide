@@ -3023,6 +3023,20 @@
 		)
 		(uuid 4104ae75-7c9e-44e5-a028-cd31348ed91c)
 	)
+	(circle
+		(center 100.838 106.172)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 0 0 1)
+		)
+		(uuid 4488476d-01a2-4f6a-872b-1798965092e2)
+	)
 	(rectangle
 		(start 190.246 21.082)
 		(end 235.966 59.944)
@@ -3035,6 +3049,20 @@
 		)
 		(uuid 46ee3a4d-72b0-4f17-abf5-778e5ea37fb6)
 	)
+	(circle
+		(center 141.478 97.028)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 0 0 1)
+		)
+		(uuid 4ca505e2-0479-429b-96de-8219626ff8f6)
+	)
 	(rectangle
 		(start 109.22 73.66)
 		(end 147.066 115.57)
@@ -3046,6 +3074,34 @@
 			(type none)
 		)
 		(uuid 4d855525-3f7d-4377-a47c-14eb4b500d01)
+	)
+	(circle
+		(center 101.092 43.688)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 0 1)
+		)
+		(uuid 68b72faa-c9ee-473a-8327-f45228912a1d)
+	)
+	(circle
+		(center 141.478 36.068)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 0 194 0 1)
+		)
+		(uuid 733a36fc-4e81-40f7-a4bd-ccefb6763253)
 	)
 	(rectangle
 		(start 237.236 108.204)
@@ -3071,6 +3127,20 @@
 		)
 		(uuid 957cf515-649c-48e5-b540-fe89637551d0)
 	)
+	(circle
+		(center 100.838 85.598)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 0 194 0 1)
+		)
+		(uuid 981c4a1e-dc81-4853-bc18-9aeebc5742fe)
+	)
 	(rectangle
 		(start 188.722 18.034)
 		(end 284.48 137.414)
@@ -3084,6 +3154,20 @@
 		)
 		(uuid 9b26c402-4da6-4a7b-af47-b62be11feca4)
 	)
+	(circle
+		(center 101.092 33.528)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 0 194 0 1)
+		)
+		(uuid aab989ec-789b-4109-b960-049ee051410a)
+	)
 	(rectangle
 		(start 149.606 21.336)
 		(end 184.404 62.992)
@@ -3096,6 +3180,20 @@
 			(type none)
 		)
 		(uuid adaa99a3-0608-4a56-b792-a0443b1a92d7)
+	)
+	(circle
+		(center 101.092 54.102)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 0 0 1)
+		)
+		(uuid be3e832a-9494-4bd3-a547-fc0fd2cc2d25)
 	)
 	(rectangle
 		(start 65.786 73.66)
@@ -3147,6 +3245,20 @@
 		)
 		(uuid ca6ab38d-1fdd-4c50-b688-ea2767e306ba)
 	)
+	(circle
+		(center 100.838 95.758)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 255 0 1)
+		)
+		(uuid e16cd812-afde-43ec-b14b-910e09ed4079)
+	)
 	(rectangle
 		(start 149.606 73.66)
 		(end 184.404 115.316)
@@ -3159,6 +3271,20 @@
 		)
 		(uuid e320e759-8c65-46a6-985d-eb92bf6cbfc7)
 	)
+	(circle
+		(center 141.478 46.228)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 255 0 0 1)
+		)
+		(uuid eb6de093-44a8-4280-a5d8-f32dc72f3ada)
+	)
 	(rectangle
 		(start 15.748 73.66)
 		(end 63.5 115.57)
@@ -3170,6 +3296,20 @@
 			(type none)
 		)
 		(uuid ed20ea7f-a5c5-451b-8aa0-d941b39375ae)
+	)
+	(circle
+		(center 141.478 86.868)
+		(radius 2.0478)
+		(stroke
+			(width 0)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(fill
+			(type color)
+			(color 0 194 0 1)
+		)
+		(uuid f73c6e99-7ddc-4fc7-8745-ed9764a8e7b5)
 	)
 	(rectangle
 		(start 237.49 21.082)
